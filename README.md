@@ -7,7 +7,8 @@
 ![image](https://github.com/RESMIRNAIR/HALF_ADDER/assets/154305926/020e1531-1c11-42e5-9f27-f09ba459984d)
 # Carry = A AND B
 ![image](https://github.com/RESMIRNAIR/HALF_ADDER/assets/154305926/988ae131-0822-4d23-941b-eaafad349a72)
-#Program 
+
+# Program 
 ```
 module Half_adder(a,b,sum,carry);
 input a,b;
@@ -16,6 +17,6 @@ xor g1(sum,a,b);
 and g2(carry,a,b);
 endmodule
 ```
-#Output
+# Output
 ![HDL SS](https://github.com/padhmapriya06/HALF_ADDER/assets/160568779/8ef95333-e689-4495-9da4-e3c4d1e2614e)
 
